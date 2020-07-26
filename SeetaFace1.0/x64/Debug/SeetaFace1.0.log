@@ -1,0 +1,26 @@
+﻿  moc MainWindow.h
+  MainWindow.cpp
+  main.cpp
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(44,1): warning C4010: 单行注释包含行继续符 (编译源文件 MainWindow.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(46,1): warning C4010: 单行注释包含行继续符 (编译源文件 MainWindow.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(47,1): warning C4010: 单行注释包含行继续符 (编译源文件 MainWindow.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(53,1): warning C4010: 单行注释包含行继续符 (编译源文件 MainWindow.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(70,1): warning C4010: 单行注释包含行继续符 (编译源文件 MainWindow.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(71,1): warning C4010: 单行注释包含行继续符 (编译源文件 MainWindow.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(82,1): warning C4010: 单行注释包含行继续符 (编译源文件 MainWindow.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(44,1): warning C4010: 单行注释包含行继续符 (编译源文件 main.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(46,1): warning C4010: 单行注释包含行继续符 (编译源文件 main.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(47,1): warning C4010: 单行注释包含行继续符 (编译源文件 main.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(53,1): warning C4010: 单行注释包含行继续符 (编译源文件 main.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(70,1): warning C4010: 单行注释包含行继续符 (编译源文件 main.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(71,1): warning C4010: 单行注释包含行继续符 (编译源文件 main.cpp)
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(82,1): warning C4010: 单行注释包含行继续符 (编译源文件 main.cpp)
+  moc_MainWindow.cpp
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(44,1): warning C4010: 单行注释包含行继续符
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(46,1): warning C4010: 单行注释包含行继续符
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(47,1): warning C4010: 单行注释包含行继续符
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(53,1): warning C4010: 单行注释包含行继续符
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(70,1): warning C4010: 单行注释包含行继续符
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(71,1): warning C4010: 单行注释包含行继续符
+E:\VSDocument\SeetaFace1.0\SeetaFace1.0\SeetaFace\FaceIdentification\face_identification.h(82,1): warning C4010: 单行注释包含行继续符
+  SeetaFace1.0.vcxproj -> E:\VSDocument\SeetaFace1.0\x64\Debug\SeetaFace1.0.exe
