@@ -11,10 +11,11 @@
 * Qt5.13.0
 * Qt tools2.4.3(即网上下载VS的qt插件工具qt-vsaddin-msvc2019-2.4.3.vsix)
 * SeetaFace1.0
+* OpenCV3.4.1
 
 **运行**  
 
-clone本项目到本地，并在百度网盘上下载所需的模型文件，再解压到项目的model文件下。  
+clone本项目到本地，并在百度网盘上下载所需的模型文件，再解压到项目的model文件夹下。  
 百度网盘链接如下：  
 链接：https://pan.baidu.com/s/1YXS7BqQwQPi83yPfx6GmcQ   
 提取码：21yt 
